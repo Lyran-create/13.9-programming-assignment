@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2023-11-11T21:20:33.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Kn-tRoox25rCFwxY57te" version="22.1.0" type="google">
+  <diagram name="Page-1" id="6Bsq8ZMwzP7xnEHRIfcE">
+    <mxGraphModel dx="1674" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G6LBRVNSPkjsehJidQ6M-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="G6LBRVNSPkjsehJidQ6M-1" edge="1" target="G6LBRVNSPkjsehJidQ6M-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="450" as="targetPoint" />
+            <mxPoint x="580" y="300" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="575" y="380" />
+              <mxPoint x="401" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6LBRVNSPkjsehJidQ6M-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="G6LBRVNSPkjsehJidQ6M-1" target="G6LBRVNSPkjsehJidQ6M-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G6LBRVNSPkjsehJidQ6M-1" value="Comparable&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.0975609756097561;" parent="1" vertex="1">
+          <mxGeometry x="370" y="80" width="410" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="G6LBRVNSPkjsehJidQ6M-5" value="GeometricObjects" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="480" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="G6LBRVNSPkjsehJidQ6M-9" value="Circle" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="480" width="280" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
